@@ -1,101 +1,52 @@
-# Hola, soy Nahuel Luna 👋
+# Nahuel Luna
 
-🎓 Estudiante de Ingeniería en Sistemas de Información en UTN.
+Soy estudiante de Ingeniería en Sistemas de Información en la UTN. Me interesa el desarrollo backend: diseñar APIs REST, modelar bases de datos relacionales y organizar las aplicaciones para que sean fáciles de mantener y extender.
 
-Estoy enfocado en el desarrollo **backend**, especialmente en la creación de **APIs REST**, manejo de **bases de datos** y arquitectura de aplicaciones.  
-Actualmente estoy construyendo proyectos propios mientras aprendo y profundizo conceptos reales de desarrollo.
+Actualmente realizo una pasantía en el área de protecciones de una empresa del sector energético. Mi trabajo combina el relevamiento de equipos e instalaciones con el desarrollo de herramientas para la gestión de activos: inventario, trazabilidad y registro de movimientos. Esa experiencia me acerca a problemas reales de integración de sistemas, que intento llevar también a mis proyectos personales.
 
----
+## Enfoque
 
-## 🚀 Sobre mí
+- Desarrollo de APIs REST con Java y Spring Boot, y con Python (FastAPI y Flask)
+- Operaciones CRUD con persistencia en base de datos
+- Diseño de esquemas relacionales en SQL y uso de ORMs (SQLAlchemy, JPA)
+- Organización de proyectos por capas (controladores, servicios y acceso a datos)
+- Desarrollo de plugins para GLPI
+- En proceso: autenticación, validación de datos y manejo de errores
 
-- Desarrollo APIs REST con Python (FastAPI / Flask)
-- Implemento CRUD completo con conexión a base de datos
-- Trabajo con SQL y diseño de bases de datos relacionales
-- Uso SQLAlchemy como ORM
-- Aplico estructura de proyectos por capas (organización backend)
-- Estoy aprendiendo autenticación, validaciones y manejo de errores
-- Me apoyo en herramientas de IA como parte del proceso de aprendizaje
+## Tecnologías
 
----
+**Backend:** Java, Spring Boot, Python, FastAPI, Flask, SQLAlchemy
+**Frontend:** React, Vite
+**Bases de datos:** PostgreSQL, SQL, SQLite
+**Sistemas:** GLPI (desarrollo de plugins en PHP)
+**Herramientas:** Git, GitHub, Docker, DBeaver, Postman
 
-## 🧠 Tecnologías
+## Proyectos
 
-**Backend**
-- Python
-- FastAPI
-- Flask
-- SQLAlchemy
+### Plugin Protecciones para GLPI
+Plugin para GLPI 11 (PHP) que permite gestionar el inventario de relés de protección: modelos, estados, ubicaciones y registro histórico de movimientos. Se desarrolla por fases incrementales, cada una con criterios de aceptación verificables.
 
-**Frontend**
-- React
-- Vite
+Tecnologías: PHP, GLPI, Git
 
-**Base de datos**
-- SQL
-- SQLite
-- PostgreSQL
+### Project Management API
+API REST para la gestión de proyectos y tareas. Incluye CRUD completo sobre una base de datos relacional y una arquitectura organizada por capas. La autenticación está en desarrollo.
 
-**Herramientas**
-- Git
-- GitHub
-- Docker
-- DBeaver
-- Postman
+Tecnologías: FastAPI, SQLAlchemy, SQLite
 
----
+### Network Systems Lab
+Repositorio con prácticas de redes: conceptos y configuración, documentación de los temas vistos en la facultad y ejercicios aplicados.
 
-## 📌 Proyectos
+### Simulación de Variables Aleatorias
+Proyecto de simulación orientado al análisis estadístico: generación de variables aleatorias y simulación de eventos. Próximamente, modelos de colas.
 
-### 🔹 Project Management API
-API REST para gestión de proyectos y tareas.
+Tecnologías: Python
 
-✔ CRUD completo  
-✔ Autenticación (en desarrollo)  
-✔ Base de datos relacional  
-✔ Arquitectura backend organizada  
+### Sistema de Reservas Deportivas
+Aplicación web para la gestión de reservas de canchas.
 
-Tecnologías:
-- FastAPI
-- SQLAlchemy
-- SQLite
+Tecnologías: Flask, React, SQLAlchemy
 
----
-
-### 🔹 Network Systems Lab
-Repositorio de prácticas reales de redes.
-
-Incluye:
-- Configuración y conceptos de redes
-- Documentación de lo aprendido en la facultad
-- Prácticas aplicadas
-
----
-
-### 🔹 Simulación de Variables Aleatorias
-Proyecto de simulación orientado a análisis estadístico.
-
-Incluye:
-- Generación de variables aleatorias
-- Simulación de eventos
-- Próximamente: modelos de colas
-
-Tecnologías:
-- Python
-
----
-
-### 🔹 Sistema de Reservas Deportivas
-Aplicación web para gestión de reservas de canchas.
-
-Tecnologías:
-- Flask
-- React
-- SQLAlchemy
-
----
-
-## 📚 Actualmente aprendiendo
+## Aprendiendo actualmente
 
 - Desarrollo de APIs con FastAPI
 - Autenticación y seguridad
@@ -103,15 +54,11 @@ Tecnologías:
 - Arquitectura backend
 - Integración con frontend
 
----
+## Objetivo
 
-## 🎯 Objetivo
+Quiero desarrollarme como backend developer en proyectos donde pueda aplicar y seguir profundizando mis conocimientos en APIs, bases de datos y sistemas.
 
-Busco desarrollarme como **backend developer**, participando en proyectos donde pueda aplicar y seguir mejorando mis conocimientos en APIs, bases de datos y sistemas.
-
----
-
-## 📫 Contacto
+## Contacto
 
 - GitHub: https://github.com/nahuellunacab
 - Email: nahuel.lunacab@gmail.com
